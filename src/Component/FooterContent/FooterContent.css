@@ -1,0 +1,14 @@
+.footer-content {
+  padding: 0px 10rem;
+}
+.footer-content > .heading,
+.para {
+  display: inline;
+  font-family: sans-serif;
+  color: rgb(197, 191, 191);
+}
+
+.heading {
+  font-size: larger;
+  font-weight: bold;
+}

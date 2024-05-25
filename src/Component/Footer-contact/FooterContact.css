@@ -1,0 +1,12 @@
+.footer_contact{
+    padding: 2rem 10rem;
+}
+.footerContact {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 2rem 10rem;
+}
+.youtube {
+  width: 300px;
+}
